@@ -9,21 +9,17 @@ python3 link_scan.py  url-to-scan
 
 Example:
 ```
-cmd> python3 link_scan.py https://www.yahoo.com
+cmd> python3 link_scan.py https://brew.sh/
 
-http://info.yahoo.com/legal/us/yahoo/cc/en-us/
-https://baseball.fantasysports.yahoo.com/b1/signup
-https://beap.gemini.yahoo.com/mbclk
-https://finance.yahoo.com/
-https://gq.us.y.atwola.com/
-https://help.yahoo.com/kb/account
-https://login.yahoo.com/
+https://brew.sh/
+https://docs.brew.sh/Installation
+https://formulae.brew.sh/formula/
 ...
-https://search.yahoo.com/search
-https://shopping.yahoo.com/
-https://sports.yahoo.com/
+https://exomel.com/
+https://mikemcquaid.com/
+https://cargocollective.com/danilalo
+
 
 Bad Links:
-https://beap.gemini.yahoo.com/mbclk
-https://sports.yahoo.com/
+https://mxcl.github.io/
 ```
