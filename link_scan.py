@@ -1,4 +1,4 @@
-# from selenium.common.exceptions import InvalidArgumentException
+from selenium.common.exceptions import InvalidArgumentException
 from selenium import webdriver
 from typing import List
 import urllib, sys                                                      
